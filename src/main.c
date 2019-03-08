@@ -1,4 +1,4 @@
-#include "STM32F3xx.h"
+#include "stm32f3xx.h"
 
 // Quick and dirty delay
 static void delay (unsigned int time) {
